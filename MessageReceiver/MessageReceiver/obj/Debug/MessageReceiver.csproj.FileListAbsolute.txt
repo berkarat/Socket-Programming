@@ -1,0 +1,7 @@
+C:\Users\OVIA\source\repos\MessageReceiver\MessageReceiver\bin\Debug\MessageReceiver.exe.config
+C:\Users\OVIA\source\repos\MessageReceiver\MessageReceiver\bin\Debug\MessageReceiver.exe
+C:\Users\OVIA\source\repos\MessageReceiver\MessageReceiver\bin\Debug\MessageReceiver.pdb
+C:\Users\OVIA\source\repos\MessageReceiver\MessageReceiver\obj\Debug\MessageReceiver.csprojAssemblyReference.cache
+C:\Users\OVIA\source\repos\MessageReceiver\MessageReceiver\obj\Debug\MessageReceiver.csproj.CoreCompileInputs.cache
+C:\Users\OVIA\source\repos\MessageReceiver\MessageReceiver\obj\Debug\MessageReceiver.exe
+C:\Users\OVIA\source\repos\MessageReceiver\MessageReceiver\obj\Debug\MessageReceiver.pdb

@@ -1,0 +1,10 @@
+C:\Users\OVIA\source\repos\MessageSender\MessageSender\bin\Debug\MessageSender.exe.config
+C:\Users\OVIA\source\repos\MessageSender\MessageSender\bin\Debug\MessageSender.exe
+C:\Users\OVIA\source\repos\MessageSender\MessageSender\bin\Debug\MessageSender.pdb
+C:\Users\OVIA\source\repos\MessageSender\MessageSender\bin\Debug\Newtonsoft.Json.dll
+C:\Users\OVIA\source\repos\MessageSender\MessageSender\bin\Debug\Newtonsoft.Json.xml
+C:\Users\OVIA\source\repos\MessageSender\MessageSender\obj\Debug\MessageSender.csprojAssemblyReference.cache
+C:\Users\OVIA\source\repos\MessageSender\MessageSender\obj\Debug\MessageSender.csproj.CoreCompileInputs.cache
+C:\Users\OVIA\source\repos\MessageSender\MessageSender\obj\Debug\MessageSender.csproj.CopyComplete
+C:\Users\OVIA\source\repos\MessageSender\MessageSender\obj\Debug\MessageSender.exe
+C:\Users\OVIA\source\repos\MessageSender\MessageSender\obj\Debug\MessageSender.pdb
